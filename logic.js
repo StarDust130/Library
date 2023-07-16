@@ -18,7 +18,6 @@ class Book {
         this.read = form.read.checked; 
     }
 }
-
 //creates book from Book Constructor, adds to library
 let myLibrary = [];
 let newBook;
